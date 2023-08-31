@@ -1,7 +1,7 @@
 # Django Htmx Check
 
 ####
-DJANGO-HTMX. [HTMX](https://htmx.org/) doesn't work in 32bit os system.
+DJANGO-HTMX. [HTMX](https://htmx.org/) doesn't work in old browser.
 I need a way to advise the user if the browser doesn't work.
 In the home view, I'm checking if the user has a 64bit or not.
 In the template thrue one line of [_Hyperscript](https://hyperscript.org/), 
