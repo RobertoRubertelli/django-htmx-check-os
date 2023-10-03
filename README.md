@@ -1,4 +1,4 @@
-# Django Htmx Check[(https://github.com/RobertoRubertelli/django-htmx-check-os)]
+# [Django Htmx Check](https://github.com/RobertoRubertelli/django-htmx-check-os)
 
 ####
 DJANGO-HTMX. [HTMX](https://htmx.org/) doesn't work in old browser.
