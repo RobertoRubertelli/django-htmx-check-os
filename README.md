@@ -9,6 +9,8 @@ if something is wrong in the view, the warning disappear, keeping me safe.
 I want to use HTMX in DJANGO, htmx is the present and the next future for django web site.
 _Hyperscript is fitting very well htmx in the DOM, it is written by the same htmx author, that's why I choosed it. If _Hyperscript is working, HTMX is working too. This is my conclusion.
 
+[link to Git-Hub source files](https://github.com/RobertoRubertelli/django-htmx-check-os)
+
 My Site [Managepy.it](https://www.managepy.it/)
 
 ## Getting started
